@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5862
     wikipedia: http://en.wikipedia.org/wiki/J._D._Beresford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15116#The-Jervaise-Comedy
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2005-02-20'
 gutenberg_type: Text
