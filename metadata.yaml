@@ -1,0 +1,29 @@
+_repo: The-Jervaise-Comedy_15116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beresford, J. D. (John Davys)
+    alias: Beresford, John Davys
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '5862'
+    url: http://www.gutenberg.org/2009/agents/5862
+    wikipedia: http://en.wikipedia.org/wiki/J._D._Beresford
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2005-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Jervaise Comedy
+url: http://www.gutenberg.org/ebooks/15116
